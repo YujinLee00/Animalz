@@ -1,4 +1,4 @@
-# Amimalz (Android)
+# :dog: Amimalz (Android)
 
 #### Main Page
 <br/>
