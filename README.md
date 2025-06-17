@@ -3,13 +3,13 @@
 #### Main Page
 <br/>
 <p align="center">
-<img width="60%" alt="Main Page" src="https://github.com/user-attachments/assets/024583ae-0b75-4d2c-9783-b454e3343d8a">
+<img width="70%" alt="Main Page" src="https://github.com/user-attachments/assets/024583ae-0b75-4d2c-9783-b454e3343d8a">
 </p>
 
 #### System Configuration
 <br/>
 <p align="center">
-<img width="60%" alt="System Configuration" src="https://github.com/user-attachments/assets/71ede226-95a7-439f-b9d7-c2b0f818819c">
+<img width="80%" alt="System Configuration" src="https://github.com/user-attachments/assets/71ede226-95a7-439f-b9d7-c2b0f818819c">
 </p>
 
 <br/>
